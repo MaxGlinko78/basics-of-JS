@@ -26,10 +26,10 @@
 
 // document.write(answers);
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
-    incr++;
-    decr--;
+//     incr++;
+//     decr--;
 
-    console.log(incr , decr);
+//     console.log(incr , decr);
